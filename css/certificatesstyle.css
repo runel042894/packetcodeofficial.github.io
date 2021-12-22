@@ -1,0 +1,52 @@
+body {
+  /* background: rgba(0, 0, 0, 0.7); */
+  background-image: url("../image/edu.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-blend-mode: darken;
+  /* position: relative;
+  text-align: center;
+  color: white; */
+}
+
+h6 {
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+  display: inline;
+  position: relative;
+  padding: 0%;
+  margin: 0%;
+  left: 25%;
+  text-decoration: none;
+}
+
+h6:hover {
+  color: gold;
+}
+
+a {
+  text-decoration: none;
+}
+
+.btn1 {
+  padding-right: 20px;
+}
+
+.btn2 {
+  padding-right: 20px;
+}
+
+.btn3 {
+  padding-right: 20px;
+}
+
+.btn4 {
+  padding-right: 20px;
+}
+
+.btn5 {
+  padding-right: 20px;
+}

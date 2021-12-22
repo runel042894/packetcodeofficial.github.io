@@ -1,0 +1,66 @@
+body {
+  /* background: rgba(0, 0, 0, 0.7); */
+  background-image: url("../image/contact.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-blend-mode: darken;
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+h3,
+p,
+label,
+form {
+  color: white;
+  position: relative;
+  text-align: center;
+}
+
+h6 {
+  color: white;
+  font-size: 12px;
+}
+
+h6 {
+  color: white;
+  font-size: 12px;
+  display: inline;
+  /* position: relative; */
+  left: 30%;
+}
+
+.btn1 {
+  padding-right: 20px;
+}
+
+.btn2 {
+  padding-right: 20px;
+}
+
+.btn3 {
+  padding-right: 20px;
+}
+
+.btn4 {
+  padding-right: 20px;
+}
+
+.btn5 {
+  padding-right: 20px;
+}
+
+h6:hover {
+  color: gold;
+}
+
+a {
+  text-decoration: none;
+}
